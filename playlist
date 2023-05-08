@@ -2,5 +2,10 @@
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJlaW5zcG9ydHMuYW5kY29udGVudF9pY29uXzE1NTQ0MDc3NDNfMDc2/icon.png?w=340&fakeurl=1" group-title="Sports",Bein Sport 1 English
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
-https://raw.githubusercontent.com/megayasa85/live/main/beinsport1eng|Referer=https://widevine.licenses4.me/
+https://webudit.salamus1.lol/lb/premium61/index.m3u8|Referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJlaW5zcG9ydHMuYW5kY29udGVudF9pY29uXzE1NTQ0MDc3NDNfMDc2/icon.png?w=340&fakeurl=1" group-title="Sports",Bein Sport 2 English
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://webudit.salamus1.lol/lb/premium90/index.m3u8|Referer=https://widevine.licenses4.me/
 
